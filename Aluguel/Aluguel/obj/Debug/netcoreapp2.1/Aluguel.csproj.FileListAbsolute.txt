@@ -1,0 +1,11 @@
+C:\Users\Anderson\Desktop\Estudos\EstudoC\Aluguel\Aluguel\bin\Debug\netcoreapp2.1\Aluguel.deps.json
+C:\Users\Anderson\Desktop\Estudos\EstudoC\Aluguel\Aluguel\bin\Debug\netcoreapp2.1\Aluguel.runtimeconfig.json
+C:\Users\Anderson\Desktop\Estudos\EstudoC\Aluguel\Aluguel\bin\Debug\netcoreapp2.1\Aluguel.runtimeconfig.dev.json
+C:\Users\Anderson\Desktop\Estudos\EstudoC\Aluguel\Aluguel\bin\Debug\netcoreapp2.1\Aluguel.dll
+C:\Users\Anderson\Desktop\Estudos\EstudoC\Aluguel\Aluguel\bin\Debug\netcoreapp2.1\Aluguel.pdb
+C:\Users\Anderson\Desktop\Estudos\EstudoC\Aluguel\Aluguel\obj\Debug\netcoreapp2.1\Aluguel.csprojAssemblyReference.cache
+C:\Users\Anderson\Desktop\Estudos\EstudoC\Aluguel\Aluguel\obj\Debug\netcoreapp2.1\Aluguel.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Estudos\EstudoC\Aluguel\Aluguel\obj\Debug\netcoreapp2.1\Aluguel.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\Estudos\EstudoC\Aluguel\Aluguel\obj\Debug\netcoreapp2.1\Aluguel.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\Estudos\EstudoC\Aluguel\Aluguel\obj\Debug\netcoreapp2.1\Aluguel.dll
+C:\Users\Anderson\Desktop\Estudos\EstudoC\Aluguel\Aluguel\obj\Debug\netcoreapp2.1\Aluguel.pdb
