@@ -1,0 +1,6 @@
+C:\Users\Kayky\Desktop\TP(C#)\Exercício do muro\Exercício do muro\bin\Debug\Exercício do muro.exe.config
+C:\Users\Kayky\Desktop\TP(C#)\Exercício do muro\Exercício do muro\bin\Debug\Exercício do muro.exe
+C:\Users\Kayky\Desktop\TP(C#)\Exercício do muro\Exercício do muro\bin\Debug\Exercício do muro.pdb
+C:\Users\Kayky\Desktop\TP(C#)\Exercício do muro\Exercício do muro\obj\Debug\Exercício do muro.csproj.CoreCompileInputs.cache
+C:\Users\Kayky\Desktop\TP(C#)\Exercício do muro\Exercício do muro\obj\Debug\Exercício do muro.exe
+C:\Users\Kayky\Desktop\TP(C#)\Exercício do muro\Exercício do muro\obj\Debug\Exercício do muro.pdb

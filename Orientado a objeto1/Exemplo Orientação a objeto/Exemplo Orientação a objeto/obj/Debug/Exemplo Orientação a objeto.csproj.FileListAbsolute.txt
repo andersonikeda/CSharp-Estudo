@@ -1,0 +1,30 @@
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020\Exemplo Orientação a objeto\Exemplo Orientação a objeto\bin\Debug\Exemplo Orientação a objeto.exe.config
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020\Exemplo Orientação a objeto\Exemplo Orientação a objeto\bin\Debug\Exemplo Orientação a objeto.exe
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020\Exemplo Orientação a objeto\Exemplo Orientação a objeto\bin\Debug\Exemplo Orientação a objeto.pdb
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo Orientação a objeto.csprojAssemblyReference.cache
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo_Orientação_a_objeto.Form1.resources
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo_Orientação_a_objeto.Properties.Resources.resources
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo Orientação a objeto.csproj.GenerateResource.cache
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo Orientação a objeto.csproj.CoreCompileInputs.cache
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo Orientação a objeto.exe
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo Orientação a objeto.pdb
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\bin\Debug\Exemplo Orientação a objeto.exe.config
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\bin\Debug\Exemplo Orientação a objeto.exe
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\bin\Debug\Exemplo Orientação a objeto.pdb
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo Orientação a objeto.csprojAssemblyReference.cache
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo_Orientação_a_objeto.Form1.resources
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo_Orientação_a_objeto.Properties.Resources.resources
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo Orientação a objeto.csproj.GenerateResource.cache
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo Orientação a objeto.csproj.CoreCompileInputs.cache
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo Orientação a objeto.exe
+C:\Users\Kayky\Desktop\TP(C#)\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo Orientação a objeto.pdb
+C:\Users\andyu\Desktop\Projetos-em-CSharp-master\Projetos-C-sharp-master\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\bin\Debug\Exemplo Orientação a objeto.exe.config
+C:\Users\andyu\Desktop\Projetos-em-CSharp-master\Projetos-C-sharp-master\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\bin\Debug\Exemplo Orientação a objeto.exe
+C:\Users\andyu\Desktop\Projetos-em-CSharp-master\Projetos-C-sharp-master\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\bin\Debug\Exemplo Orientação a objeto.pdb
+C:\Users\andyu\Desktop\Projetos-em-CSharp-master\Projetos-C-sharp-master\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo Orientação a objeto.csproj.AssemblyReference.cache
+C:\Users\andyu\Desktop\Projetos-em-CSharp-master\Projetos-C-sharp-master\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo_Orientação_a_objeto.Form1.resources
+C:\Users\andyu\Desktop\Projetos-em-CSharp-master\Projetos-C-sharp-master\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo_Orientação_a_objeto.Properties.Resources.resources
+C:\Users\andyu\Desktop\Projetos-em-CSharp-master\Projetos-C-sharp-master\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo Orientação a objeto.csproj.GenerateResource.cache
+C:\Users\andyu\Desktop\Projetos-em-CSharp-master\Projetos-C-sharp-master\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo Orientação a objeto.csproj.CoreCompileInputs.cache
+C:\Users\andyu\Desktop\Projetos-em-CSharp-master\Projetos-C-sharp-master\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo Orientação a objeto.exe
+C:\Users\andyu\Desktop\Projetos-em-CSharp-master\Projetos-C-sharp-master\3-13-07_2020 Orientado a objeto\Exemplo Orientação a objeto\Exemplo Orientação a objeto\obj\Debug\Exemplo Orientação a objeto.pdb

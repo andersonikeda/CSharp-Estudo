@@ -1,0 +1,7 @@
+C:\Users\Kayky\Desktop\TP(C#)\Exemplo de modularização\Exemplo de modularização\bin\Debug\Exemplo de modularização.exe.config
+C:\Users\Kayky\Desktop\TP(C#)\Exemplo de modularização\Exemplo de modularização\bin\Debug\Exemplo de modularização.exe
+C:\Users\Kayky\Desktop\TP(C#)\Exemplo de modularização\Exemplo de modularização\bin\Debug\Exemplo de modularização.pdb
+C:\Users\Kayky\Desktop\TP(C#)\Exemplo de modularização\Exemplo de modularização\obj\Debug\Exemplo de modularização.csproj.CoreCompileInputs.cache
+C:\Users\Kayky\Desktop\TP(C#)\Exemplo de modularização\Exemplo de modularização\obj\Debug\Exemplo de modularização.exe
+C:\Users\Kayky\Desktop\TP(C#)\Exemplo de modularização\Exemplo de modularização\obj\Debug\Exemplo de modularização.pdb
+C:\Users\Kayky\Desktop\TP(C#)\Exemplo de modularização\Exemplo de modularização\obj\Debug\Exemplo de modularização.csprojAssemblyReference.cache
