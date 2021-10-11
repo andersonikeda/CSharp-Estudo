@@ -1,0 +1,6 @@
+C:\Users\Kayky\Desktop\TP(C#)\Recebe nome e idade de usuário\Recebe nome e idade de usuário\bin\Debug\Recebe nome e idade de usuário.exe.config
+C:\Users\Kayky\Desktop\TP(C#)\Recebe nome e idade de usuário\Recebe nome e idade de usuário\bin\Debug\Recebe nome e idade de usuário.exe
+C:\Users\Kayky\Desktop\TP(C#)\Recebe nome e idade de usuário\Recebe nome e idade de usuário\bin\Debug\Recebe nome e idade de usuário.pdb
+C:\Users\Kayky\Desktop\TP(C#)\Recebe nome e idade de usuário\Recebe nome e idade de usuário\obj\Debug\Recebe nome e idade de usuário.csproj.CoreCompileInputs.cache
+C:\Users\Kayky\Desktop\TP(C#)\Recebe nome e idade de usuário\Recebe nome e idade de usuário\obj\Debug\Recebe nome e idade de usuário.exe
+C:\Users\Kayky\Desktop\TP(C#)\Recebe nome e idade de usuário\Recebe nome e idade de usuário\obj\Debug\Recebe nome e idade de usuário.pdb
