@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Projeto_MVC.Models.ProprietarioModel>
+
+@{
+    ViewData["Title"] = "Index Proprietário";
+}
+
+<h1>Index Proprietário</h1>
+
+<p>
+    <a asp-action="Create">Criar Novo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProprietarioId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rg)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cpf)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rua)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cidade)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+             <td>
+                @Html.DisplayFor(modelItem => item.ProprietarioId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rg)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cpf)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rua)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cidade)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ProprietarioId">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.ProprietarioId">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.ProprietarioId">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
